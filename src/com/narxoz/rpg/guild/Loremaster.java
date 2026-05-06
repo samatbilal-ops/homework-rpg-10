@@ -1,4 +1,4 @@
 package com.narxoz.rpg.guild;
 
-public class GuildHall {
+public class Loremaster {
 }
